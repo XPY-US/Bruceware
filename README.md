@@ -1,3 +1,5 @@
+Maintained by **XPY‑US** <img src="https://img.icons8.com/emoji/20/00aaff/check-mark-emoji.png">
+
 <div align="center">
 
 # 🚀 ScriptBase  
