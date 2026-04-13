@@ -1,3 +1,5 @@
+Maintained by **XPY‑US** <img src="https://i.imgur.com/0hZ6F8X.png" width="18" style="vertical-align:middle;">
+
 <div align="center">
 
 # 🚀 ScriptBase  
