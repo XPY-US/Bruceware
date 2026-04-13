@@ -1,44 +1,95 @@
-ScriptBase
-Beginner‑friendly Bruce firmware scripts designed to run on any Bruce‑compatible device, including:
+<div align="center">
 
-M5StickC PLUS2
+# 🚀 ScriptBase  
+### Beginner‑Friendly Bruce Firmware Scripts for Every Device
 
-LilyGO T‑Embed
+**Compatible with:**
+- M5StickC PLUS2  
+- LilyGO T‑Embed  
+- Flipper‑style ESP32 devices  
+- Any ESP32 device supported by Bruce  
 
-Flipper‑style ESP32 devices
+A growing library of **simple, safe, reusable** Bruce scripts designed to help beginners learn fast while giving advanced users a clean foundation to build on.
 
-Any ESP32 device supported by Bruce
+---
 
-ScriptBase is a growing library of simple, safe, and reusable scripts that help new developers learn Bruce scripting while giving advanced users a solid foundation to build on.
+</div>
 
-📦 What This Repository Contains
-This repo includes:
+## 📦 What This Repository Contains
 
-Beginner Bruce scripts  
-Simple examples showing how to use the Bruce API (display, buttons, sensors, timers, etc.)
+### **Beginner Bruce Scripts**
+Simple examples showing how to use the Bruce API:
+- Display rendering  
+- Buttons  
+- Sensors  
+- Timers  
+- Basic UI  
 
-Cross‑device compatible utilities  
-Scripts written to run on any Bruce device without modification.
+### **Cross‑Device Compatible Utilities**
+Scripts written to run on **any Bruce device** without modification.
 
-Reusable modules  
-Small functions you can import into your own apps.
+### **Reusable Modules**
+Small, clean functions you can import into your own apps.
 
-Learning‑focused examples  
-Clean, readable code meant to teach new Bruce developers.
+### **Learning‑Focused Examples**
+Readable, well‑structured code meant to teach new Bruce developers the right way.
 
-If you want, I can generate a full index of every file once you upload your folder tree.
+> If you want, I can generate a full index of every file once you upload your folder tree.
 
-🧠 Why ScriptBase Exists
+---
+
+## 🧠 Why ScriptBase Exists
+
 ScriptBase is built to:
 
-Help beginners learn Bruce scripting quickly
+- Help beginners learn Bruce scripting quickly  
+- Provide ready‑to‑use examples for all supported devices  
+- Offer a clean starting point for custom apps  
+- Keep scripts organized and easy to reuse  
+- Support larger projects like **Traplixy Dungeon**, **Script Hub**, and more  
 
-Provide ready‑to‑use examples for any supported device
+Everything here is written with **clarity**, **compatibility**, and **expandability** in mind.
 
-Offer a clean starting point for custom apps
+---
 
-Keep scripts organized and easy to reuse
+## 🛠️ Getting Started
 
-Support your larger projects (Traplixy Dungeon, Script Hub, etc.)
+### 1. Install Bruce Firmware  
+Works on any Bruce‑compatible ESP32 device.
 
-Everything here is written with clarity and compatibility in mind.
+### 2. Upload Scripts  
+Use:
+- Bruce Web IDE  
+- USB file transfer  
+- Your own Script Hub app  
+
+### 3. Run the Script  
+Open it from your device’s file browser or launcher.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome — especially:
+- Beginner examples  
+- Display helpers  
+- Input handling modules  
+- Cross‑device utilities  
+
+**Steps:**
+1. Fork the repo  
+2. Create a branch  
+3. Add your script  
+4. Submit a pull request  
+
+---
+
+<div align="center">
+
+## ❤️ Support This Project
+
+If you want to support ScriptBase and future Traplixy projects:
+
+### 👉 **[💖 Support ScriptBase](https://github.com/sponsors/XPY-US)**
+
+</div>
