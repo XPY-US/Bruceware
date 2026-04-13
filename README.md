@@ -1,4 +1,5 @@
-Maintained by **XPY‑US** <img src="https://img.icons8.com/emoji/20/00aaff/check-mark-emoji.png">
+Maintained by **XPY‑US** <img src="https://img.shields.io/badge/Verified-%E2%9C%93-00aaff?style=flat&labelColor=000000">
+
 
 <div align="center">
 
