@@ -1,0 +1,16 @@
+{
+  "scripts": [
+    {
+      "name": "HitachiPower",
+      "url": "https://raw.githubusercontent.com/XPY-US/Bruceware/main/HitachiPower/main.py"
+    },
+    {
+      "name": "HitachiFullRemote",
+      "url": "https://raw.githubusercontent.com/XPY-US/Bruceware/main/HitachiFullRemote/main.py"
+    },
+    {
+      "name": "ClassroomShutdown",
+      "url": "https://raw.githubusercontent.com/XPY-US/Bruceware/main/ClassroomShutdown/main.py"
+    }
+  ]
+}
